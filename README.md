@@ -55,6 +55,6 @@ o	applied_small.png, applied_large.png, applied_border.png
 •	Implementation: result = np full like (orig_color, 255); result[mask==255] = orig_color[mask==255]
 
 To run 
-''' 
+```python 
 python circle.py
-'''
+
