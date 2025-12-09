@@ -1,3 +1,7 @@
+Change the file name and location according to your need.
+
+Methodology used:
+ 
 1.	Load images
 •	 Read the original color image (img1.tif) and also a grayscale copy (for processing).
 •	Ensure file/paths exist and image was read correctly.
